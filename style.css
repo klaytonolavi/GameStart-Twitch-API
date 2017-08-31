@@ -1,8 +1,17 @@
-#results-display {
+/*#results-display {
 	display: inline-block;
 	margin: 0 auto;
+	float: left;
 }
 
 .results  {
 	display: inline-block;
+	float: left;
+}*/
+
+.streamDiv {
+	display: inline-block;
+	float: left;
+	margin: 5px;
 }
+
